@@ -6,14 +6,9 @@
 
 ## Descrição do Desafio:
 
-The project is responsible to run the full data pipeline (the Python application + dbt transformation + dbt test) as following:
-1. Execute the __dbt seed__ to import the files.
-2. Drop the transaction raw table if it exists.
-3. Create the transaction raw table if it not exists.
-4. Ingest data from the csv file stored into __/data__ folder.
-5. Execute the __dbt run__ to execute the whole etl pipeline.
-6. Execute the __dbt test__ to execute the tests defined for the models.
-7. Remove temporary log files
+1. Descritivo.
+2. Descritivo.
+3. Descritivo.
 
 ## Arquivo usado como _source_ de dados:
 
