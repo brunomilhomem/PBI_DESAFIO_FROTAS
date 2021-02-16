@@ -27,5 +27,10 @@ O relatório foi composto considerando a seguinte lógica:
 | Descritivo | Descritivo | Descritivo |
 | Descritivo | Descritivo | Descritivo |
 
+## Pré-requisitos:
+1. Ter a ultima versão do Power BI instalado em sua máquina local para visualização do dashboard.
+
+
+
  [br.linkedin.com/in/bmilhomem](https://www.linkedin.com/in/bmilhomem/)
  
